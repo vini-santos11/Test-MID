@@ -1,0 +1,3 @@
+## Recursion exercise - Fibonacci:
+
+Write a function that calculates the nth number in the Fibonacci sequence. The Fibonacci sequence is formed by adding the two previous numbers, starting with 0 and 1 (or 1 and 1, depending on the initial order), and the first numbers in the sequence are: 0, 1, 1, 2, 3, 5, 8, 13, ...
